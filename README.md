@@ -80,6 +80,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2024
 - Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2311.16474)
+- Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps [[Arxiv]](https://arxiv.org/pdf/2410.01319)
 
 
 
@@ -233,7 +234,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Domain Generalization in LiDAR Semantic Segmentation Leveraged by Density Discriminative Feature Embedding [[Arxiv]](https://arxiv.org/pdf/2312.12098.pdf)
 
 #### 2024 
-- UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather [[CVPR 2024]](https://www.scholar-inbox.com/papers/Zhao2024ARXIV_UniMix_Towards_Domain_Adaptive.pdf)
+- UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_UniMix_Towards_Domain_Adaptive_and_Generalizable_LiDAR_Semantic_Segmentation_in_CVPR_2024_paper.pdf)
 - An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains [[CVPR 2024]](https://arxiv.org/pdf/2402.17562)
 - Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather [[ECCV 2024]](https://arxiv.org/pdf/2407.02286)
 - DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding [[ECCV 2024]](https://arxiv.org/pdf/2407.08801)
