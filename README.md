@@ -33,7 +33,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 [Simulation](#simulation)
 
-[Others](#other-applications)
+[Other applications](#other-applications)
 
 
 
@@ -114,7 +114,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 
 #### 2022
-- Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving [[CVPR 2021]](https://arxiv.org/pdf/2105.00373.pdf)
+- Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving [[CVPR 2022]](https://arxiv.org/pdf/2105.00373.pdf)
 - LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection [[ECCV 2022]](https://arxiv.org/pdf/2203.14956.pdf)
 - Real-Time and Robust 3D Object Detection Within Road-Side LiDARs Using Domain Adaptation [[Arxiv]](https://arxiv.org/pdf/2204.00132.pdf)
 - Towards Robust 3D Object Recognition with Dense-to-Sparse Deep Domain Adaptation [[Arxiv]](https://arxiv.org/pdf/2205.03654.pdf)
@@ -155,18 +155,20 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2020
 - Domain Transfer for Semantic Segmentation of LiDAR Data using Deep Neural Networks [[IROS 2020]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/langer2020iros.pdf)
-- Domain Adaptation in LiDAR Semantic Segmentation by Aligning Class Distributions [[Arxiv]](https://arxiv.org/pdf/2010.12239.pdf)
-- Point-Based Multilevel Domain Adaptation for Point Cloud Segmentation [[Paper]](https://www.researchgate.net/publication/346441330_Point-Based_Multilevel_Domain_Adaptation_for_Point_Cloud_Segmentation/link/616f9a59c891c4663aaa1da2/download)
 - Unsupervised scene adaptation for semantic segmentation of urban mobile laser scanning point clouds [[ISPRS Photo and remote sensing 2020]](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302744)  
 - Improved Semantic Segmentation of Low-Resolution 3D Point Clouds Using Supervised Domain Adaptation [[NILES 2020]](https://ieeexplore.ieee.org/document/9257903)
+- Domain Adaptation in LiDAR Semantic Segmentation by Aligning Class Distributions [[Arxiv]](https://arxiv.org/pdf/2010.12239.pdf)
+- Point-Based Multilevel Domain Adaptation for Point Cloud Segmentation [[Paper]](https://www.researchgate.net/publication/346441330_Point-Based_Multilevel_Domain_Adaptation_for_Point_Cloud_Segmentation/link/616f9a59c891c4663aaa1da2/download)
+
 
 #### 2021
 - Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds [[CVPR 2021]](https://arxiv.org/pdf/2007.08488.pdf)
-- Unsupervised Domain Adaptive Point Cloud Semantic Segmentation [[ACPR 2021]](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_21) 
+- Unsupervised Domain Adaptive Point Cloud Semantic Segmentation [[ACPR 2021]](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_21)
+- Cycle and Semantic Consistent Adversarial Domain Adaptation for Reducing Simulation-to-Real Domain Shift in LiDAR Bird’s Eye View [[ITSC 2021]](https://arxiv.org/pdf/2104.11021.pdf) 
 - HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2201.05585.pdf)
 - Unsupervised Domain Adaptation in LiDAR Semantic Segmentation with Self-Supervision and Gated Adapters [[Arxiv]](https://arxiv.org/pdf/2107.09783.pdf)
 - LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2003.01174.pdf)
-- Cycle and Semantic Consistent Adversarial Domain Adaptation for Reducing Simulation-to-Real Domain Shift in LiDAR Bird’s Eye View [[ITSC 2021]](https://arxiv.org/pdf/2104.11021.pdf) 
+
 
 
 
