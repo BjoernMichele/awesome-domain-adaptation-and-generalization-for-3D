@@ -3,7 +3,7 @@
 
 ## Description
 This is a collection of awesome works targeting domain adaptation and generalization for 3D data. The works are roughly categorized into Uni-Modal and Multi-Modal data.
-Feel free to participate and add your latest work, or to adapt the publication venue if it gets accepted.
+Feel free to participate and add your latest work (by creating a pull-request or opening an issue), or to adapt the publication venue if it gets accepted.
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
