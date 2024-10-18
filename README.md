@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-142-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-144-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -230,6 +230,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Domain generalization of 3D semantic segmentation in autonomous driving [[ICCV 2023]](https://arxiv.org/pdf/2212.04245v2.pdf)
 - Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation [[ICCV 2023]](https://arxiv.org/pdf/2304.11705.pdf)
 - Robo3D: Towards Robust and Reliable 3D Perception against Corruptions [[ICCV 2023]](https://arxiv.org/pdf/2303.17597.pdf)
+- 3D Adversarial Augmentations for Robust Out-of-Domain Predictions [[IJCV]](https://arxiv.org/pdf/2308.15479)
 - Domain Generalization of 3D Object Detection by Density-Resampling [[Arxiv]](https://arxiv.org/pdf/2311.10845.pdf)
 - Domain Generalization in LiDAR Semantic Segmentation Leveraged by Density Discriminative Feature Embedding [[Arxiv]](https://arxiv.org/pdf/2312.12098.pdf)
 
