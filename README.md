@@ -140,7 +140,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.pdf)
 - Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR 2024]](https://arxiv.org/pdf/2404.19384)
 - CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf)
-- UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[Arxiv]](https://arxiv.org/abs/2403.17633) 
+- UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[IEEE RA-L]](https://arxiv.org/abs/2403.17633) 
 - Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11311)
 - Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11313)
 - CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection [[Arxiv]](https://arxiv.org/pdf/2406.18129)
@@ -293,10 +293,10 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 
 ## Other applications
-- Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[Arxiv]](https://arxiv.org/pdf/1712.05765.pdf)
 - Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf)
 - Project to Adapt: Domain Adaptation for Depth Completion from Noisy and Sparse Sensor Data [[ACCV 2020]](https://openaccess.thecvf.com/content/ACCV2020/papers/Lopez-Rodriguez_Project_to_Adapt_Domain_Adaptation_for_Depth_Completion_from_Noisy_ACCV_2020_paper.pdf)
 - A Registration-Aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition [[IROS 2021]](https://arxiv.org/pdf/2012.05018.pdf)
+- Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[Arxiv]](https://arxiv.org/pdf/1712.05765.pdf)
 - Anatomy-guided domain adaptation for 3D in-bed human pose estimation [[Arxiv]](https://arxiv.org/pdf/2211.12193.pdf)
 
 
