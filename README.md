@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-146-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-145-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -257,14 +257,15 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 #### 2023
 - Cross-modal & Cross-domain Learning for Unsupervised LiDAR Semantic Segmentation [[ACM 2023]](https://arxiv.org/pdf/2308.02883.pdf)
 - Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25400)
-- Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2307.04231.pdf) 
-- Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2304.02991.pdf)
-- MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2309.11839.pdf)
-- SAM-GUIDED UNSUPERVISED DOMAIN ADAPTATION FOR 3D SEGMENTATION [[Arxiv]](https://arxiv.org/pdf/2310.08820.pdf)
+- Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation [[CVPR 2023]](https://arxiv.org/pdf/2304.02991.pdf)
+- Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation [[AAAI 2023]](https://arxiv.org/pdf/2307.04231.pdf) 
+
+
 
 #### 2024
 - CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-based 3D Object Detection [[AAAI 2024]](https://arxiv.org/pdf/2403.03721.pdf)
 - Learning to Adapt SAM for Segmenting Cross-domain Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2310.08820)
+- MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation [[ICRA 2024]](https://arxiv.org/pdf/2309.11839.pdf)
 - Multimodal 3D Object Detection on Unseen Domains [[Arxiv]](https://arxiv.org/pdf/2404.11764.pdf)
 - Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2403.10001)
 - TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[Arxiv]](https://arxiv.org/pdf/2403.11691)
