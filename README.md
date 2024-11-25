@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-145-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-146-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -216,6 +216,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.12387)
 - MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.14878)
 - CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation [[Arxiv]](https://arxiv.org/pdf/2407.16193)
+- Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models [[Arxiv]](https://arxiv.org/pdf/2411.14495)
 
 
 ## Generalization and Robustness
