@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-146-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-151-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -140,7 +140,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.pdf)
 - Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR 2024]](https://arxiv.org/pdf/2404.19384)
 - CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf)
-- UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[IEEE RA-L]](https://arxiv.org/abs/2403.17633) 
+- UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[IEEE RA-L]](https://arxiv.org/abs/2403.17633)
+- LiT: Unifying LiDAR “Languages” with LiDAR Translator [[NeurIPS 2024]](https://openreview.net/pdf/b9f11e717fae53a1228a5b9c208bb323f8080693.pdf)
+
 - Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11311)
 - Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11313)
 - CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection [[Arxiv]](https://arxiv.org/pdf/2406.18129)
@@ -254,9 +256,12 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2022
 - MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation [[CVPR 2022]](https://arxiv.org/pdf/2204.12667.pdf)
+- Self-supervised Exclusive Learning for 3D Segmentation with Cross-Modal Unsupervised Domain Adaptation [[ACM 2022]](https://dl.acm.org/doi/10.1145/3503161.3547987)
+- Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation [[ACM 2022]](https://dl.acm.org/doi/10.1145/3503161.3547990)
 
 #### 2023
 - Cross-modal & Cross-domain Learning for Unsupervised LiDAR Semantic Segmentation [[ACM 2023]](https://arxiv.org/pdf/2308.02883.pdf)
+- Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation [[ACM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612013)
 - Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25400)
 - Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation [[CVPR 2023]](https://arxiv.org/pdf/2304.02991.pdf)
 - Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation [[AAAI 2023]](https://arxiv.org/pdf/2307.04231.pdf) 
@@ -267,6 +272,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-based 3D Object Detection [[AAAI 2024]](https://arxiv.org/pdf/2403.03721.pdf)
 - Learning to Adapt SAM for Segmenting Cross-domain Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2310.08820)
 - MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation [[ICRA 2024]](https://arxiv.org/pdf/2309.11839.pdf)
+- UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior [[NeurIPS 2024]](https://openreview.net/pdf/2a44ca78c6cb797dc9a91aebf697ca399484e8e1.pdf)
 - Multimodal 3D Object Detection on Unseen Domains [[Arxiv]](https://arxiv.org/pdf/2404.11764.pdf)
 - Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2403.10001)
 - TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[Arxiv]](https://arxiv.org/pdf/2403.11691)
