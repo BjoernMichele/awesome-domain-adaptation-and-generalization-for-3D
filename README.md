@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-151-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-152-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -147,6 +147,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11313)
 - CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection [[Arxiv]](https://arxiv.org/pdf/2406.18129)
 - STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning [[Arxiv]](https://arxiv.org/abs/2406.19362)
+- DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising [[Arxiv]](https://arxiv.org/pdf/2412.08806)
 
 
 ### DA Semantic Segmentation
