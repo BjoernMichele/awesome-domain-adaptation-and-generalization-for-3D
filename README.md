@@ -245,6 +245,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather [[ECCV 2024]](https://arxiv.org/pdf/2407.02286)
 - DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding [[ECCV 2024]](https://arxiv.org/pdf/2407.08801)
 
+#### 2025
+- 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
+
 ## Multi-Modal
 #### 2020
 - xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation [[CVPR 2020]](https://arxiv.org/pdf/1911.12676.pdf)
