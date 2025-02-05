@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-152-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-154-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -247,6 +247,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2025
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
+- Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 
 ## Multi-Modal
 #### 2020
