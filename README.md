@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-154-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-155-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -310,6 +310,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf)
 - Project to Adapt: Domain Adaptation for Depth Completion from Noisy and Sparse Sensor Data [[ACCV 2020]](https://openaccess.thecvf.com/content/ACCV2020/papers/Lopez-Rodriguez_Project_to_Adapt_Domain_Adaptation_for_Depth_Completion_from_Noisy_ACCV_2020_paper.pdf)
 - A Registration-Aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition [[IROS 2021]](https://arxiv.org/pdf/2012.05018.pdf)
+- PointSFDA: Source-free Domain Adaptation for Point Cloud Completion [[Arxiv]](https://arxiv.org/pdf/2503.15144)
 - Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[Arxiv]](https://arxiv.org/pdf/1712.05765.pdf)
 - Anatomy-guided domain adaptation for 3D in-bed human pose estimation [[Arxiv]](https://arxiv.org/pdf/2211.12193.pdf)
 
