@@ -204,6 +204,10 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Contrastive Maximum Mean Discrepancy for Unsupervised Domain Adaptation Applied to Large Scale 3D LiDAR Semantic Segmentation [[Paper]](https://www.semanticscholar.org/paper/Contrastive-Maximum-Mean-Discrepancy-for-Domain-to-Mendili-Daniel/0ce42ccd4f85bffc7d10c92803d92f95d57b4296)
 - LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training[[ArXiv]](https://arxiv.org/pdf/2410.15833)
 
+#### 2025
+- Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks [[ArXiv]](https://arxiv.org/pdf/2504.01659)
+- Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation [[ArXiv]](https://arxiv.org/pdf/2504.01668)
+
 
 
 ## Source-Free Domain Adaptation and Test-time Adaptation
