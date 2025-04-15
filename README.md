@@ -142,7 +142,6 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf)
 - UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[IEEE RA-L]](https://arxiv.org/abs/2403.17633)
 - LiT: Unifying LiDAR “Languages” with LiDAR Translator [[NeurIPS 2024]](https://openreview.net/pdf/b9f11e717fae53a1228a5b9c208bb323f8080693.pdf)
-
 - Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11311)
 - Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2406.11313)
 - CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection [[Arxiv]](https://arxiv.org/pdf/2406.18129)
@@ -252,7 +251,6 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2025
 - From One to the Power of Many: Invariance to Multi-LiDAR Perception from Single-Sensor Datasets [[AAAIw 2025]](https://arxiv.org/pdf/2409.18592)
-
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 
