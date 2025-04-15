@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-157-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-158-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -248,8 +248,11 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains [[CVPR 2024]](https://arxiv.org/pdf/2402.17562)
 - Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather [[ECCV 2024]](https://arxiv.org/pdf/2407.02286)
 - DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding [[ECCV 2024]](https://arxiv.org/pdf/2407.08801)
+- Rethinking LiDAR Domain Generalization: Single Source as Multiple Density Domains [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03042.pdf)
 
 #### 2025
+- From One to the Power of Many: Invariance to Multi-LiDAR Perception from Single-Sensor Datasets [[AAAIw 2025]](https://arxiv.org/pdf/2409.18592)
+
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 
