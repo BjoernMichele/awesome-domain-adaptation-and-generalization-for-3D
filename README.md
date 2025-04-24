@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-158-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-161-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -82,7 +82,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2311.16474)
 - Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps [[Arxiv]](https://arxiv.org/pdf/2410.01319)
 
-
+#### 2025
+- Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness [[Arxiv]](https://arxiv.org/pdf/2504.15796)
 
 ### DA Object Detection
 
@@ -253,6 +254,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - From One to the Power of Many: Invariance to Multi-LiDAR Perception from Single-Sensor Datasets [[AAAIw 2025]](https://arxiv.org/pdf/2409.18592)
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
+- An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather [[Arxiv]](https://arxiv.org/pdf/2504.14806)
 
 ## Multi-Modal
 #### 2020
@@ -288,7 +290,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[Arxiv]](https://arxiv.org/pdf/2403.11691)
 - Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2410.19446)
 
-
+#### 2025
+- Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2504.14231)
 
 # Others
 
