@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-161-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-164-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -39,7 +39,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 
 ## Surveys and other collections
-- A Survey on Deep Domain Adaptation for LiDAR Perception [[Arxiv]](https://arxiv.org/pdf/2106.02377.pdf) 
+- A Survey on Deep Domain Adaptation for LiDAR Perception [[Arxiv]](https://arxiv.org/pdf/2106.02377.pdf)
+- Survey on LiDAR Perception in Adverse Weather Conditions [[IV 2023]](https://arxiv.org/pdf/2304.06312)
 - Awesome Domain Adaptation in 3D [[GitHub]](https://github.com/ldkong1205/awesome-3d-da/blob/main/README.md)
 - Understanding the Domain Gap in LiDAR Object Detection Networks [[Arxiv]](https://arxiv.org/pdf/2204.10024.pdf)
 - Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level [[Arxiv]](https://arxiv.org/pdf/2303.01899.pdf)
@@ -139,6 +140,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2024
 - SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.pdf)
+- LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection [[ICRA 2024]](https://arxiv.org/pdf/2301.12515)
 - Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR 2024]](https://arxiv.org/pdf/2404.19384)
 - CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf)
 - UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps [[IEEE RA-L]](https://arxiv.org/abs/2403.17633)
@@ -148,6 +150,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection [[Arxiv]](https://arxiv.org/pdf/2406.18129)
 - STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning [[Arxiv]](https://arxiv.org/abs/2406.19362)
 - DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising [[Arxiv]](https://arxiv.org/pdf/2412.08806)
+
+#### 2025
+- An Investigation of Beam Density on LiDAR Object Detection Performance [[Computer Vision Winter Workshop]](https://arxiv.org/pdf/2503.15087v1)
 
 
 ### DA Semantic Segmentation
@@ -217,6 +222,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2022
 - GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.09763.pdf)
+
+#### 2023
+- Source-free Unsupervised Domain Adaptation for 3D Object Detection in Adverse Weather [[ICRA 2023]](https://ieeexplore.ieee.org/abstract/document/10161341)
 
 #### 2024
 - Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation [[ECCV 2024]](https://arxiv.org/pdf/2409.04409)
@@ -292,6 +300,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2025
 - Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2504.14231)
+- 3D Can Be Explored In 2D : Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2505.03300)
+
 
 # Others
 
