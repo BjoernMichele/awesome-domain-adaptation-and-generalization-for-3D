@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-164-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-165-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -309,6 +309,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2019
 - CNN-based synthesis of realistic high-resolution LiDAR data [[IEEE Intelligent Vehicles Symposium]](https://arxiv.org/pdf/1907.00787.pdf)
+- Predicting the Influence of Rain on LIDAR in ADAS [[Electronics]](https://www.mdpi.com/2079-9292/8/1/89)
+
 
 #### 2021
 
