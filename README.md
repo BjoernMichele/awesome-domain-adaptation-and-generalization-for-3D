@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-167-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-173-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -266,6 +266,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - From One to the Power of Many: Invariance to Multi-LiDAR Perception from Single-Sensor Datasets [[AAAIw 2025]](https://arxiv.org/pdf/2409.18592)
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving [[IEEE T-RO]](https://arxiv.org/pdf/2501.14605)
 - Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Yang_Towards_Explicit_Geometry-Reflectance_Collaboration_for_Generalized_LiDAR_Segmentation_in_Adverse_CVPR_2025_paper.pdf)
+- No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Park_No_Thing_Nothing_Highlighting_Safety-Critical_Classes_for_Robust_LiDAR_Semantic_CVPR_2025_paper.pdf)
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 - An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather [[Arxiv]](https://arxiv.org/pdf/2504.14806)
 
