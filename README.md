@@ -153,6 +153,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2025
 - An Investigation of Beam Density on LiDAR Object Detection Performance [[Computer Vision Winter Workshop]](https://arxiv.org/pdf/2503.15087v1)
+- GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Malic_GBlobs_Explicit_Local_Structure_via_Gaussian_Blobs_for_Improved_Cross-Domain_CVPR_2025_paper.pdf)
 
 
 ### DA Semantic Segmentation
@@ -328,6 +329,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2023
 - Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Manivasagam_Towards_Zero_Domain_Gap_A_Comprehensive_Study_of_Realistic_LiDAR_ICCV_2023_paper.pdf)
+
+#### 2025
+- WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)
 
 
 ## Other applications
