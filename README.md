@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-173-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-176-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -77,13 +77,16 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2023
 - MEnsA: Mix-up Ensemble Average for Unsupervised Multi Target Domain Adaptation on 3D Point Clouds [[CVPRw 2023]](https://arxiv.org/pdf/2304.01554.pdf)
+- SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification [[ACM MM-2023]](https://arxiv.org/pdf/2305.09160)
 - Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds [[Arxiv]](https://arxiv.org/pdf/2311.16474.pdf)
 
 #### 2024
+- Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.pdf)
 - Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2311.16474)
 - Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps [[Arxiv]](https://arxiv.org/pdf/2410.01319)
 
 #### 2025
+- Learning Semantic Part-Based Graph Structure for 3D Point Cloud Domain Generalization [[WACV]](https://openaccess.thecvf.com/content/WACV2025/papers/Sai_Learning_Semantic_Part-Based_Graph_Structure_for_3D_Point_Cloud_Domain_WACV_2025_paper.pdf)
 - Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness [[Arxiv]](https://arxiv.org/pdf/2504.15796)
 
 ### DA Object Detection
