@@ -87,7 +87,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps [[Arxiv]](https://arxiv.org/pdf/2410.01319)
 
 #### 2025
-- Learning Semantic Part-Based Graph Structure for 3D Point Cloud Domain Generalization [[WACV]](https://openaccess.thecvf.com/content/WACV2025/papers/Sai_Learning_Semantic_Part-Based_Graph_Structure_for_3D_Point_Cloud_Domain_WACV_2025_paper.pdf)
+- Learning Semantic Part-Based Graph Structure for 3D Point Cloud Domain Generalization [[WACV 2025]](https://openaccess.thecvf.com/content/WACV2025/papers/Sai_Learning_Semantic_Part-Based_Graph_Structure_for_3D_Point_Cloud_Domain_WACV_2025_paper.pdf)
 - Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness [[Arxiv]](https://arxiv.org/pdf/2504.15796)
 
 ### DA Object Detection
@@ -115,7 +115,6 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Exploiting Playbacks in Unsupervised Domain Adaptation for 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2103.14198.pdf) 
 - ST3D++: Denoised Self-training for Unsupervised Domain Adaptation on 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2108.06682.pdf)
 - Uncertainty-aware Mean Teacher for Source-free Unsupervised Domain Adaptive 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2109.14651.pdf)
-- Attentive Prototypes for Source-free Unsupervised Domain Adaptive 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2111.15656.pdf)
 - Adversarial Training on Point Clouds for Sim-to-Real 3D Object Detection [[Paper]](http://research.engr.oregonstate.edu/rdml/sites/research.engr.oregonstate.edu.rdml/files/21-0495_03_ms.pdf)
 
 
@@ -144,6 +143,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2024
 - SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.pdf)
+- Attentive Prototypes for Source-free Unsupervised Domain Adaptive 3D Object Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.pdf)
 - LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection [[ICRA 2024]](https://arxiv.org/pdf/2301.12515)
 - Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR 2024]](https://arxiv.org/pdf/2404.19384)
 - CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection [[ECCV 2024]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf)
