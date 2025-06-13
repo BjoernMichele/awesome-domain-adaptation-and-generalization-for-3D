@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-176-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-177-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -83,6 +83,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 #### 2024
 - Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.pdf)
 - Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds [[ECCV 2024]](https://arxiv.org/pdf/2311.16474)
+- Graph attentive dual ensemble learning for unsupervised domain adaptation on point clouds [[PR 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004412)
 - Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps [[Arxiv]](https://arxiv.org/pdf/2410.01319)
 
 #### 2025
