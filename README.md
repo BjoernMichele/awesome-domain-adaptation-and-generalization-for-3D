@@ -202,17 +202,17 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - T–UDA: Temporal Unsupervised Domain Adaptation in Sequential Point Clouds [[IROS 2023]](https://arxiv.org/pdf/2309.08302.pdf)
 - Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation [[TPAMI 2023]](https://arxiv.org/abs/2308.14619)
 - Adversarially Masking Synthetic to Mimic Real: Adaptive Noise Injection for Point Cloud Segmentation Adaptation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adversarially_Masking_Synthetic_To_Mimic_Real_Adaptive_Noise_Injection_for_CVPR_2023_paper.pdf)
-- Adversarially Masking Synthetic to Mimic Real:Adaptive Noise Injection for Point Cloud Segmentation Adaptation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adversarially_Masking_Synthetic_To_Mimic_Real_Adaptive_Noise_Injection_for_CVPR_2023_paper.pdf)
 - LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation [[ICCV 2023]](https://arxiv.org/pdf/2309.13523.pdf)
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[ICRA 2023]](https://arxiv.org/pdf/2111.15242.pdf)
 - Prototype-Guided Multitask Adversarial Network for Cross-Domain LiDAR Point Clouds Semantic Segmentation [[IEEE Transactions on Geoscience and Remote Sensing 2023]](https://www.semanticscholar.org/paper/Prototype-Guided-Multitask-Adversarial-Network-for-Yuan-Cheng/065e8edaa9df6513694ccf23859fc2b828d0b35e) 
 
 #### 2024 
 - SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation [[3DV 2024]](https://arxiv.org/pdf/2304.03251.pdf)
+- LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training[[IROS 2024]](https://arxiv.org/pdf/2410.15833)
 - Construct to Associate: Cooperative Context Learning for Domain Adaptive Point Cloud Segmentation [[CVPR 2024]](https://openaccess.thecvf.com//content/CVPR2024/papers/Li_Construct_to_Associate_Cooperative_Context_Learning_for_Domain_Adaptive_Point_CVPR_2024_paper.pdf)
 - Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds [[CVPR 2024]](https://arxiv.org/pdf/2403.18469.pdf)
 - Contrastive Maximum Mean Discrepancy for Unsupervised Domain Adaptation Applied to Large Scale 3D LiDAR Semantic Segmentation [[Paper]](https://www.semanticscholar.org/paper/Contrastive-Maximum-Mean-Discrepancy-for-Domain-to-Mendili-Daniel/0ce42ccd4f85bffc7d10c92803d92f95d57b4296)
-- LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training[[ArXiv]](https://arxiv.org/pdf/2410.15833)
+
 
 #### 2025
 - Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks [[ArXiv]](https://arxiv.org/pdf/2504.01659)
