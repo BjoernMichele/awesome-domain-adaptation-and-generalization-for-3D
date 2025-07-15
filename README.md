@@ -305,10 +305,10 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior [[NeurIPS 2024]](https://openreview.net/pdf/2a44ca78c6cb797dc9a91aebf697ca399484e8e1.pdf)
 - Multimodal 3D Object Detection on Unseen Domains [[Arxiv]](https://arxiv.org/pdf/2404.11764.pdf)
 - Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2403.10001)
-- TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[Arxiv]](https://arxiv.org/pdf/2403.11691)
 - Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2410.19446)
 
 #### 2025
+- TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[3DV 2025]](https://arxiv.org/pdf/2403.11691)
 - Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2504.14231)
 - 3D Can Be Explored In 2D : Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2505.03300)
 
