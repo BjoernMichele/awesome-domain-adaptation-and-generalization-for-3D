@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-180-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-181-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -276,6 +276,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 - An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather [[Arxiv]](https://arxiv.org/pdf/2504.14806)
 - Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop [[Arxiv]](https://arxiv.org/pdf/2511.01250)
+- Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels [[Arxiv]](https://arxiv.org/pdf/2510.09035)
 
 ## Multi-Modal
 #### 2020
