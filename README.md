@@ -215,6 +215,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 
 #### 2025
+- BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation [[NeurIPS 2025]](https://openreview.net/pdf/3946006b71060495704b65bea4b4d3eac5a086e6.pdf)
 - Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks [[ArXiv]](https://arxiv.org/pdf/2504.01659)
 - Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation [[ArXiv]](https://arxiv.org/pdf/2504.01668)
 
