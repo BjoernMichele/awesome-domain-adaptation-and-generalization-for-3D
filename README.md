@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-177-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-178-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -273,6 +273,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Park_No_Thing_Nothing_Highlighting_Safety-Critical_Classes_for_Robust_LiDAR_Semantic_CVPR_2025_paper.pdf)
 - Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features [[Arxiv]](https://arxiv.org/pdf/2502.02322)
 - An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather [[Arxiv]](https://arxiv.org/pdf/2504.14806)
+- Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop [[Arxiv]](https://arxiv.org/pdf/2511.01250)
 
 ## Multi-Modal
 #### 2020
