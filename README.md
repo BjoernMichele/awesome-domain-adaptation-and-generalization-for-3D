@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-183-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-184-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -317,6 +317,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - UniDxMD: Towards Unified Representation for Cross-Modal Unsupervised Domain Adaptation in 3D Semantic Segmentation [[ICCV 2025]](https://openaccess.thecvf.com//content/ICCV2025/papers/Liang_UniDxMD_Towards_Unified_Representation_for_Cross-Modal_Unsupervised_Domain_Adaptation_in_ICCV_2025_paper.pdf)
 - Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2504.14231)
 - 3D Can Be Explored In 2D : Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2505.03300)
+- Multi-Modal Assistance for Unsupervised Domain Adaptation on Point Cloud 3D Object Detection [[Arxiv]](https://arxiv.org/pdf/2511.07966)
 
 
 # Others
