@@ -314,7 +314,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2410.19446)
 
 #### 2025
-- Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift [BMVC 2025](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_859/paper.pdf)
+- Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift [[BMVC 2025]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_859/paper.pdf)
 - TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [[3DV 2025]](https://arxiv.org/pdf/2403.11691)
 - UniDxMD: Towards Unified Representation for Cross-Modal Unsupervised Domain Adaptation in 3D Semantic Segmentation [[ICCV 2025]](https://openaccess.thecvf.com//content/ICCV2025/papers/Liang_UniDxMD_Towards_Unified_Representation_for_Cross-Modal_Unsupervised_Domain_Adaptation_in_ICCV_2025_paper.pdf)
 - Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2504.14231)
