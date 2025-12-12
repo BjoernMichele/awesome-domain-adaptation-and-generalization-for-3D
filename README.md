@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-185-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-186-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -88,6 +88,7 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 
 #### 2025
 - Learning Semantic Part-Based Graph Structure for 3D Point Cloud Domain Generalization [[WACV 2025]](https://openaccess.thecvf.com/content/WACV2025/papers/Sai_Learning_Semantic_Part-Based_Graph_Structure_for_3D_Point_Cloud_Domain_WACV_2025_paper.pdf)
+- CounterPC: Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CounterPC_Counterfactual_Feature_Realignment_for_Unsupervised_Domain_Adaptation_on_Point_ICCV_2025_paper.pdf)
 - Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness [[Arxiv]](https://arxiv.org/pdf/2504.15796)
 
 ### DA Object Detection
