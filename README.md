@@ -241,8 +241,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation [[Arxiv]](https://arxiv.org/pdf/2407.16193)
 - Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models [[Arxiv]](https://arxiv.org/pdf/2411.14495)
 
-  #### 2025
-  - D3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhao_D3CTTA_Domain-Dependent_Decorrelation_for_Continual_Test-Time_Adaption_of_3D_LiDAR_CVPR_2025_paper.pdf)
+#### 2025
+- D3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhao_D3CTTA_Domain-Dependent_Decorrelation_for_Continual_Test-Time_Adaption_of_3D_LiDAR_CVPR_2025_paper.pdf)
 
 
 ## Generalization and Robustness
