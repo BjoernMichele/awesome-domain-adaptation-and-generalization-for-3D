@@ -7,7 +7,7 @@ Feel free to participate and add your latest work (by creating a pull-request or
 Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation/blob/master/README.md) 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-186-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
+<img alt="Static Badge" src="https://img.shields.io/badge/Paper_count-188-%234285F4?style=flat&logo=googlescholar&labelColor=beige">
 
 ## Contents
 
@@ -160,6 +160,9 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 - An Investigation of Beam Density on LiDAR Object Detection Performance [[Computer Vision Winter Workshop]](https://arxiv.org/pdf/2503.15087v1)
 - GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Malic_GBlobs_Explicit_Local_Structure_via_Gaussian_Blobs_for_Improved_Cross-Domain_CVPR_2025_paper.pdf)
 
+#### 2026
+- An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds [[Arxiv]](https://arxiv.org/pdf/2601.07855)
+
 
 ### DA Semantic Segmentation
 
@@ -244,6 +247,8 @@ Inspired by [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-dom
 #### 2025
 - D3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation [[CVPR 2025]](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhao_D3CTTA_Domain-Dependent_Decorrelation_for_Continual_Test-Time_Adaption_of_3D_LiDAR_CVPR_2025_paper.pdf)
 
+#### 2026
+- Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation [[Arxiv]](https://arxiv.org/pdf/2601.08375)
 
 ## Generalization and Robustness
 
